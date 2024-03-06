@@ -1,8 +1,6 @@
 # Empowering-Sustainable-Innovation-Google-solutions-challenge
 
-### Google Developer Student Clubs (GDSCs) are using Google technology to develop solutions for the UN's Sustainable Development Goals. Our solution addresses the improper disposal of batteries and other electronic components, which harms the environment.
-### Our app provides resources for responsible e-waste disposal, promoting a circular economy that recovers valuable materials and reduces environmental impact. We also empower communities through education and awareness campaigns, fostering a culture of environmental stewardship.
-### Together, we're using technology and collaboration to create a more sustainable future where innovation and environmental well-being go hand in hand.
+#### Google Developer Student Clubs (GDSCs) are using Google technology to develop solutions for the UN's Sustainable Development Goals. Our solution addresses the improper disposal of batteries and other electronic components, which harms the environment. Our app provides resources for responsible e-waste disposal, promoting a circular economy that recovers valuable materials and reduces environmental impact. We also empower communities through education and awareness campaigns, fostering a culture of environmental stewardship.Together, we're using technology and collaboration to create a more sustainable future where innovation and environmental well-being go hand in hand.
 
 ## selected Sustainable Development Goals
 
@@ -23,8 +21,7 @@
 <img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/aa20bde4-ebe1-49be-bb92-94e9a4cf856b" alt="image description" width="300" >
 <img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/9063fad8-2a0d-4476-ab20-ed09e3843076" alt="image description" width="300" >
 
-## click to watch the demo
-
+## click to watch the demo:
 [![what is git](https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/832004bd-5837-44d4-8a93-35b932481a67)](https://youtu.be/r9EUbFwW_E0?si=00JUHf31fHYfMsD5)
 
-[<img scr= "https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/832004bd-5837-44d4-8a93-35b932481a67" width="100">](https://youtu.be/r9EUbFwW_E0?si=00JUHf31fHYfMsD5)
+
